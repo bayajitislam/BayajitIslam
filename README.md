@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🏙️ Based in **Dhaka, Bangladesh**
-- 💼 Jr. Flutter Developer at **Betopia Groupe**
+- 💼 Jr. Flutter Developer at **Sparktech Agency**
 - 📱 Building cross-platform apps for **iOS & Android**
 - 🌱 Currently learning **Automation (n8n) & AI Integration**
 - 💬 Ask me about **Flutter, Dart, FastAPI, Mobile App Development**
