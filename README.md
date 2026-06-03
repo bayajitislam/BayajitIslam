@@ -25,7 +25,7 @@
 
 | App | Platform | Link |
 |-----|----------|------|
-| **Violet** – AI Support Platform for Health & Social Care | iOS • Android • macOS • Windows | [Play Store](https://play.google.com/store/apps/details?id=com.violet.nxt) • [App Store](https://apps.apple.com/us/app/id6762738417) |
+| **Violet** – AI Support Platform for Health & Social Care | iOS • Android • macOS • Windows | [Play Store](https://play.google.com/store/apps/details?id=com.violet.nxt) • [App Store](https://apps.apple.com/us/app/id6762738417) • [Microsoft Store](https://apps.microsoft.com/detail/9mvcnxzpwkv9) |
 | **Avo Balance** – Smart Meal Plan Organizer | Android | [Play Store](https://play.google.com/store/apps/details?id=com.avobalance.maxanstudio) |
 
 ---
