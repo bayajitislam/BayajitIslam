@@ -17,7 +17,7 @@
 - 📱 Building cross-platform apps for **iOS & Android**
 - 🌱 Currently learning **Automation (n8n) & AI Integration**
 - 💬 Ask me about **Flutter, Dart, FastAPI, Mobile App Development**
-- 📫 Reach me at **realbayajitislam@gmail.com**
+- 📫 Reach me at **contact@bayajitislam.com**
 
 ---
 
