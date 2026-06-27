@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bayajitislam.com" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:realbayajitislam@gmail.com">📩 Email</a> •
+  <a href="mailto:contact@bayajitislam.com">📩 Email</a> •
   <a href="https://linkedin.com/in/bayajitislam" target="_blank">💼 LinkedIn</a>
 </p>
 
