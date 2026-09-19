@@ -57,13 +57,17 @@ Currently working as a Jr. Flutter Developer at Sparktech Agency, building nativ
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayajitislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bayajit Islam GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayajitislam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bayajitislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bayajit Islam GitHub Stats" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bayajitislam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BayajitIslam&color=4c1d95&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com/?user=bayajitislam&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BayajitIslam&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
